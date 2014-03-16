@@ -5,7 +5,7 @@
     "Dan Tocchini <d4@thegrid.io>"
   ],
   "description": "Grid Style Sheets Runtime",
-  "main": ["dist/gss.js","dist/gss.min.js","dist/worker.js","dist/worker.min.js"],
+  "main": ["dist/worker.js","dist/gss.js"],
   "keywords": [
     "gss"
   ],
